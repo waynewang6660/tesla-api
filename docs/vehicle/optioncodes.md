@@ -58,6 +58,7 @@ return a generic set of codes related to a Model 3.
 | AU3P   | Sound Studio Package                                     | Premium audio package                                     |
 | AUF1   | Premium Speakers Enabled                                 | M3/MY Premium Audio Package (AWD,Perf)                    |
 | AUF2   | Premium Speakers Disabled                                | M3/MY Reduced Audio Package (Standard, mid range)         |
+| BA01   | Brakes actuator                                          | Bosch DPB with ESP10                                      |
 | BC00   | Brake Calipers M4.42/44                                  | MS Plaid E5                                               |
 | BC0B   | Black Brake Calipers                                     | Model S                                                   |
 | BC0R   | Red Brake Calipers                                       | Model S                                                   |
@@ -89,6 +90,7 @@ return a generic set of codes related to a Model 3.
 | BT41   | 55 kWh 2021 E1 2170L Panasonic Battery Pack              | M3/Y Standard+ 2021 model year                            |
 | BT42   | 82 kWh (Model 3/Y) 2021 Panasonic                        | M3P (and latest LR Fremont) 2021 model year               |
 | BT43   | 79 kWh (Model 3/Y) 2021 LG NCA                           | M3/Y LR Q4.2021                                           |
+| BT44   | 84–85 kWh netto E3 M53F                                  | MY LR Q3.2025                                             |
 | BT47   | E3 2170L RWD Battery Pack                                | MY RWD Q2.2024                                            |
 | BT60   | 60 kWh                                                   |                                                           |
 | BT70   | 70 kWh                                                   |                                                           |
@@ -108,6 +110,7 @@ return a generic set of codes related to a Model 3.
 | BY02   | 1 piece cast front under body and rear under body        | Model Y First found on Austin car                         |
 | BY03   | Safety Net Body                                          | Model Y First found on Berlin car                         |
 | BY04   | 1 piece cast rear under Safety Net Body                  | Model Y Berlin car                                        |
+| CAM1   | AeroRib Side Repeater without Cheetah Camera             |                                                           |
 | CC01   | Five Seat Interior                                       |                                                           |
 | CC02   | Six Seat Interior                                        |                                                           |
 | CC03   | Seven Seat Interior                                      |                                                           |
@@ -227,6 +230,7 @@ return a generic set of codes related to a Model 3.
 | HL31   | Head Lamp                                                | Model 3 Uplevel Headlamps                                 |
 | HL32   | Matrix Headlights 2021                                   | Model 3/Y 2021 Uplevel Headlamps                          |
 | HL33   | Lamp 1 Headlights 2024                                   | Model 3 2024 Headlamps                                    |
+| HL34   | Lamp 1 Headlights 2025                                   | Model Y 2025 Headlamps                                    |
 | HP00   | No HPWC Ordered                                          |                                                           |
 | HP01   | HPWC Ordered                                             |                                                           |
 | HP30   | No heat pump assembly                                    | Model 3 Standard+ China made                              |
@@ -587,6 +591,7 @@ return a generic set of codes related to a Model 3.
 | T3MC   | Tires M3                                                 | 18" China made                                            |
 | T3P3   | Tires M3                                                 | 20" Michelin PS4 Summer                                   |
 | T3PS   | Tires M3                                                 | 19" PIRELLI PZ4?                                          |
+| TCU4   | 4G TCU                                                   | Model S/X                                                 |
 | TD00   | Tear Down NON-GLIDER                                     | Model S/X                                                 |
 | TIC3   | Tires MS                                                 | 21                                                        |
 | TIC4   | Tires MX                                                 | 20" all-weather tires                                     |
@@ -651,8 +656,8 @@ return a generic set of codes related to a Model 3.
 | W39S   | 19W Nova Wheels                                          | Model 3 Highland                                          |
 | W40B   | 18" Wheels                                               | Model 3 2021                                              |
 | W41B   | 19" Wheels                                               | Model 3 2022                                              |
+| WPF1   | Wiper Heated Firmware Enabled                            |                                                           |
 | WR00   | No Wrap                                                  |                                                           |
-| WR01   | Wrap                                                     |                                                           |
 | WR02   | Wrap 2 (Tilburg bound)                                   |                                                           |
 | WS90   | 19" Tempest Wheels                                       | Model S Refresh 2021                                      |
 | WT19   | 19" Wheels                                               |                                                           |
